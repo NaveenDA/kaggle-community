@@ -205,5 +205,4 @@ catboost_info/
 *.yaml
 *.yml
 *.txt
-*.md
 *.html
